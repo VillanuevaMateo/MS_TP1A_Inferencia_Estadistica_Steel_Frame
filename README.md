@@ -1,3 +1,5 @@
+# MS_TP1A_Inferencia_Estadistica_Steel_Frame_R1.ipynb
+TP de estadística descriptiva, trabajo practico para la UCA
 # 📊 Trabajo Práctico: Estadística Descriptiva Aplicada a Steel Frame
 
 ## 🧪 Ejemplo 3: Análisis de Calidad en Paneles de Steel Frame
